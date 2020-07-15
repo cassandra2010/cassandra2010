@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ReactJS.
 - Check out my blog : cassandra2010.github.io
+- Already experienced in : Java, C++, Python, SQL
 
 <!--
 **cassandra2010/cassandra2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
